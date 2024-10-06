@@ -58,8 +58,6 @@ const queryChain = (done) => {
   done(null /*, data*/);
 };
 
-module.exports = mongoose;
-
 /** **Well Done !!**
 /* You completed these challenges, let's go celebrate !
  */
